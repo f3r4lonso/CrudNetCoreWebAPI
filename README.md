@@ -7,13 +7,13 @@ database deploy:
 
 2) go to Package Manager Console:
 
-//a Install EntityFramework if you dont have it
+a Install EntityFramework if you dont have it
 PM> dotnet tol install --global dotnet-ef
 
-//b Create a migration Script in order to Update your local database
+b Create a migration Script in order to Update your local database
 PM> dotnet migration add MicrationScriptName
 
-//c Update or Create your local Databaase
+c Update or Create your local Databaase
 PM> dotnet database update
 
 Buil and Run
