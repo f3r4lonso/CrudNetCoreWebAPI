@@ -1,14 +1,14 @@
 CrudNetCoreWebAPI
 
-.NetCore 6,
+*.NetCore 6
 
-EntityFramework,
+*EntityFramework
 
-Swagger test UI,
+*Swagger test UI
 
-SQL Server Express,
+*SQL Server Express
 
-Dependency injection,
+*Dependency injection
 
 
 database deploy:
